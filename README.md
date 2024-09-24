@@ -4,9 +4,13 @@
 #Practica en clase
 
 #imprime el nombre del programador
+
 print("Jimenez Gamboa Issis Alexa 3W")
 
-print("")#Se imprime una linea en blanco
+#Se imprime una linea en blanco
+
+print("")
+
 
 print("Practica en clase,  codigo donde solicite tres numeros y se realice la multiplicacion de ellos") #esta linea se imprimira en la pantalla, en este caso es el titulo de lo que se hará
 
